@@ -1,0 +1,6 @@
+{
+  "name": "Permisos de la App",
+  "description": "Administrador integral de permisos del sistema, accesos especiales y optimización de segundo plano en Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
